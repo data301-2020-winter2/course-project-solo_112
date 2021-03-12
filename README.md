@@ -19,6 +19,8 @@ My dataset contains the name, position, height and weight of all players invited
 
 - Jason Schaad: Overweight, middle-aged, know-it-all windbag.
 
+![images/smrt.gif]
+
 ---
 
 ## References
