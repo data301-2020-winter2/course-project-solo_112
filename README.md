@@ -7,9 +7,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-The ***NFL Scouting Combine*** is a week-long showcase where college football players perform various athletic tests in front of NFL coaches, general managers and scouts. Athletes can only attend if they have been invited. The NFL is a business and drafting the right player can make or break a franchise. The combine has been broadcast on television since 2004. In 2010 combine broadcast on the NFL Network received 5.24 million viewers. In 2019 ESPN began providing additional coverage. These players are amazingly talented athletes, it is entertaining to watch what the human body is capable of. I enjoy watching football, to me football is like a modern gladiator match mixed with chess-like strategy. The players at the combine are future stars of the NFL. My big question are:
-- why some quarterbacks like Tom Brady (the GOAT - Greatest Of All Time) get drafted 199th overall in the 6th round of the 2000 draft whereas Robert Griffin III get picked 2nd overall in 2012 and only started for two seasons; was this decision based on their combine performance?
-- how are players in their respective roles getting bigger, faster, or taller over time?
+The ***NFL Scouting Combine*** is a week-long showcase where college football players perform various athletic tests in front of NFL coaches, general managers and scouts. Athletes can only attend if they have been invited. The NFL is a business and drafting the right player can make or break a franchise. The combine has been broadcast on television since 2004. In 2010 combine broadcast on the NFL Network received 5.24 million viewers. In 2019 ESPN began providing additional coverage. These players are amazingly talented athletes, it is entertaining to watch what the human body is capable of. I enjoy watching football, to me football is like a modern gladiator match mixed with chess-like strategy. The players at the combine are future stars of the NFL. Some players like Tom Brady (the GOAT - Greatest Of All Time) get drafted 199th overall in the 6th round of the 2000 draft whereas Robert Griffin III get picked 2nd overall in 2012 and only started for two seasons.
+
+My questions are:
+- Does Tight End performance at the combine influence draft pick?
+- How do the physical dimensions of the players compare by position?
 
 ## Describe your dataset in about 150-200 words
 
@@ -18,8 +20,6 @@ My dataset contains the name, position, height and weight of all players invited
 ## Team Members
 
 - Jason Schaad: Overweight, middle-aged, know-it-all windbag.
-
-![images/smrt.gif]
 
 ---
 
