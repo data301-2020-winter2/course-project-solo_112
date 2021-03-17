@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 def load_and_process(url_or_path_to_csv_file):
     # Method Chain 1
@@ -14,7 +13,7 @@ def load_and_process(url_or_path_to_csv_file):
     
     df1 = (
         pd.read_csv(url_or_path_to_csv_file)
-        .drop(columns=['Pfr_ID'])
+        .drop(columns = ['Pfr_ID'])
         .query('Pos != "LS"')
         .query('Year != 2018')
         .assign(Pick=lambda x: x.Pick.fillna(300))
