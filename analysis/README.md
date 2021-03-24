@@ -15,3 +15,11 @@ This directory contains my draft and or work in progress *Jupyter Notebooks*.
 - put chains in functions
 - making a python module
 - EDA
+
+# Milestone 3
+
+- address Amir's feedback
+- add structure to document
+- add introduction section
+- add dataset section
+- ensure plots have proper labels and units
