@@ -17,6 +17,9 @@ My questions are:
 
 My dataset contains the name, position, height and weight of all players invited to the NFL Combine from 2000 until 2018. The data also includes results of six athletic tests: 40 yard dash time, number of bench press repetitions with 225 pounds, broad jump length, 3-cone drill test, and shuttle run time. These are comprehensive tests that measure muscle strength and stamina, speed, agility, change of direction, body control Finally, the data includes what team, round and overall pick the athlete was selected in the draft if any. The data was collected by the National Football League during the scouting combine in the respective year. The data represents a subset of the measurements collected at the combine. For example, hand size, arm length and wingspan are not part of the dataset. The data is collected and measured by humans using the appropriate measurement tools. The combine data is used by NFL teams to help inform draft picks.  
 
+## Online Tableau Dashboard
+
+A online dashboard in tableau has been created. You can visit it [here](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/344640?:origin=card_share_link).
 ## Team Members
 
 - Jason Schaad: Overweight, middle-aged, know-it-all windbag.
