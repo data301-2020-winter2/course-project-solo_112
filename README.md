@@ -20,6 +20,10 @@ My dataset contains the name, position, height and weight of all players invited
 ## Online Tableau Dashboard
 
 A online dashboard in tableau has been created. You can visit it [here](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/344640?:origin=card_share_link).
+
+## YouTube presentation
+Here is the link to my [youtube presentation](https://www.youtube.com/watch?v=4QpjtLhCRxI).
+
 ## Team Members
 
 - Jason Schaad: Overweight, middle-aged, know-it-all windbag.
